@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/PYTHON_PROJECTS/ML/MLflow/mlruns/0/e315710b54d7401c9a7a3fc4bc70a4e2/artifacts
+end_time: 1595528299318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e315710b54d7401c9a7a3fc4bc70a4e2
+run_uuid: e315710b54d7401c9a7a3fc4bc70a4e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1595528299199
+status: 3
+tags: []
+user_id: '1052668570'
